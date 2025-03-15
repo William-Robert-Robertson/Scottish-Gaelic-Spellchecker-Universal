@@ -7,6 +7,6 @@ To spell check using only GOC orthography please use [https://github.com/William
 
 The spell checker is based on the lexical database behind [www.faclair.com](https://www.faclair.com), has over 80'000 headwords and is able to check over 2.8 million conjugates.
 
-The spell checker is provided as a LibreOffice extension here:
+The spell checker is provided as a LibreOffice extension with more detailed instructions for use here:
 
 [https://extensions.libreoffice.org/en/extensions/show/an-dearbhair-beag-scottish-gaelic-spellchecker](https://extensions.libreoffice.org/en/extensions/show/an-dearbhair-beag-scottish-gaelic-spellchecker)
