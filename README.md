@@ -1,7 +1,7 @@
 # Scottish Gaelic Spellchecker - Universal
 Scottish Gaelic Spellchecker (Universal)
 
-This is a mirror of the universal (including both traditional orthography and GOC (Galic Orthographic Convention) orthography) [hunspell](https://hunspell.github.io/) spell checker for Scottish Gaelic.
+This includes the [hunspell](https://hunspell.github.io/) spell checker file [glan.txt](glan.txt) and a mirror of the LibreOffice spell checker extension [hunspell-gd.3.5.oxt](hunspell-gd.3.5.oxt) for universal (including both traditional orthography and GOC (Gaelic Orthographic Convention) orthography) of Scottish Gaelic.
 
 To spell check using only GOC orthography please use [https://github.com/William-Robert-Robertson/Scottish-Gaelic-Spellchecker-GOC](https://github.com/William-Robert-Robertson/Scottish-Gaelic-Spellchecker-GOC)
 
