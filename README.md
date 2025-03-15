@@ -1,4 +1,4 @@
-# Scottish-Gaelic-Spellchecker-Universal
+# Scottish Gaelic Spellchecker - Universal
 Scottish Gaelic Spellchecker (Universal)
 
 This is a mirror of the universal (including both traditional orthograpohy and GOC orthography) hunspell spell checker for Scottish Gaelic.
